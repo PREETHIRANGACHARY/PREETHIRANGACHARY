@@ -160,8 +160,8 @@
 {
    position: relative;
    list-style:none;
-   width: 400px;
-   left: 90px;
+   width: 150px;
+   left: -4px;
 }
 .menu ul li a{
      text-decoration:none;
